@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="product_item">
+        <item>Skirt</item>
+        <item>Shirt</item>
+        <item>Pains</item>
+        <item>Shoes</item>
+        <item>Sneaker</item>
+        <item>Accessory</item>
+    </string-array>
+</resources>
